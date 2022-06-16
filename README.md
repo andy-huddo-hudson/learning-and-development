@@ -2,7 +2,9 @@
 
 ## Content design
 
-## Content strategy
+## Content and UX strategy
+
+- [ ] [*UX Strategy Masterclass - Become a UX Strategist*](https://www.udemy.com/course/user-experience-strategy-masterclass/) - Andy Woynarowski: self-paced learning
 
 ## Prototyping tools
 
