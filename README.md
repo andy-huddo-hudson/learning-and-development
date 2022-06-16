@@ -5,6 +5,7 @@
 ## Content and UX strategy
 
 - [ ] [*UX Strategy Masterclass - Become a UX Strategist*](https://www.udemy.com/course/user-experience-strategy-masterclass/) - Andy Woynarowski: self-paced learning
+- [ ] [*Interactive Virtual Taxonomy Workshop*](https://www.hedden-information.com/interactive-virtual-taxonomy-workshop/)
 
 ## Prototyping tools
 
